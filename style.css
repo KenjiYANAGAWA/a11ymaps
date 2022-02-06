@@ -28,4 +28,5 @@ a:hover {
 #banner {
   background-image: url(images/banner.png);
   text-align: center;
+  padding: 150px, 0;
 }
