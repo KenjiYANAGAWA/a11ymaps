@@ -6,6 +6,7 @@ body  {
 
 h1 {
   font-family: Courier;
+  font-weight: bold;
   font-size: 50px;
   color: rgb(191, 49, 0);
 }
@@ -34,7 +35,7 @@ a:hover {
 }
 
 #banner p {
-  color: black;
+  color: white;
   font-size: 40px;
   font-weight: bold;
 }
