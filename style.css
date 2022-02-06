@@ -32,3 +32,12 @@ a:hover {
   padding: 150px 0;
   color: white;
 }
+
+#banner h1 {
+  color: white;
+}
+
+#banner p {
+  color: white;
+  font-size: 30px;
+}
