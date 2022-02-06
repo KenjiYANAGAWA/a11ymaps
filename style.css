@@ -16,10 +16,10 @@ h2 {
 
 a {
   text-decoration: none;
-  color: rgb(5, 5, 5);
+  color: blue;
 }
 
 a:hover {
   text-decoration: none;
-  color: rgb(142, 166, 4);
+  color: green;
 }
