@@ -38,3 +38,7 @@ a:hover {
   font-size: 40px;
   font-weight: bold;
 }
+
+#banner span {
+  background-color: rgb(0, 0, 0, 0.3);
+}
