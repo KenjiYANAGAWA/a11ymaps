@@ -3,3 +3,9 @@ body  {
   color: rgb(10, 10, 10);
   font-family: Helvetica;
 }
+
+h1 {
+  font-family: Courier;
+  font-size: 50px;
+  color: rgb(191, 49, 0);
+}
