@@ -1,0 +1,7 @@
+.card {
+  display: flex;
+  align-items: center;
+}
+.card-body {
+  flex-shrink: 1;
+}
